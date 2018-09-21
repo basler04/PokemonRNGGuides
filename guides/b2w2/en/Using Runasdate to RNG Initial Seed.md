@@ -16,7 +16,7 @@ RunAsDate is a tool developed by nirsoft that allows any program to load with a 
 ## How to setup RunAsDate?
 
 Once downloaded and launched, you should have this window:
-![](https://i.imgur.com/HeUoPmv.png)
+![](https://github.com/zaksabeast/PokemonRNGGuides/blob/add/images/pictures/b2w2/en/Runasdate%20Guide/runasdate.png?raw=true)
 
 This screenshot shows runsadate after it has been configured. This means you'll have to uncheck ANY box, and to set to "Absolute day/time" (but should be set by default). Selecting 'Relative day/time' will not freeze the time and so you'll have no advantage to use RunAsDate.
 

@@ -17,7 +17,7 @@
 ## Things To Know
 Dream Radar RNG can be used to obtain DBHA Legendaries and several other Pokemon. Pokemon here are Shiny-Locked, but other than that, there are no limitations. You will be advancing both types of frames present in Generation 5 (IVRNG and PIDRNG Frames) at the same time and by two each advance. Frames for this RNG are advanced using the key system.
 
-![](https://github.com/zaksabeast/PokemonRNGGuides/blob/add/images/pictures/b2w2/en/key%20system.png?raw=true)
+![](https://github.com/zaksabeast/PokemonRNGGuides/blob/add/images/pictures/b2w2/en/Dream%20Radar%20RNG%20Guide/key%20system.png?raw=true)
 
 In addition, you may have noticed a "Dream Radar" tab in RNG Reporter. During the time of this guide being written, that tab does not work. Therefore, this guide will explain an alternate method of finding seeds and desired IV/Nature combinations.
 
@@ -33,7 +33,7 @@ Ensure that you have exported your BW2 Save File with the Dream Radar Pokemon to
     - The IVs frame range depends on what Pokemon you are RNGing. For the Therian Trio (Tornadus, Thundurus, Landorus) set the minimum IV frame to 21. For the other Pokemon the minimum IV frame is 8. Maximum frame can be whatever you prefer.
     - Hit search and wait for results to show.
 
-![](https://github.com/zaksabeast/PokemonRNGGuides/blob/add/images/pictures/b2w2/en/timefinder.png?raw=true)
+![](https://github.com/zaksabeast/PokemonRNGGuides/blob/add/images/pictures/b2w2/en/Dream%20Radar%20RNG%20Guide/timefinder.png?raw=true)
 
 If you are going for a Generation 4 Legendary or a random Pokemon, target even IV frames, but if you are going for a Therian-Forme, target odd IV frames.
 
@@ -43,7 +43,7 @@ If you are going for a Generation 4 Legendary or a random Pokemon, target even I
 
  - For example, if I want this:
 
- ![](https://github.com/zaksabeast/PokemonRNGGuides/blob/add/images/pictures/b2w2/en/target%20frame.png?raw=true)
+ ![](https://github.com/zaksabeast/PokemonRNGGuides/blob/add/images/pictures/b2w2/en/Dream%20Radar%20RNG%20Guide/target%20frame.png?raw=true)
 
  -  I will take the seed and get the initial PIDRNG Frame for it using the button on RNGReporter.
     - This button will appear on the right when you have selected Gen 5 PIDRNG.
@@ -74,4 +74,4 @@ If you are going for a Generation 4 Legendary or a random Pokemon, target even I
 
 And there we have it! A DBHA Landorus!
 
- ![](https://github.com/zaksabeast/PokemonRNGGuides/blob/add/images/pictures/b2w2/en/result.png?raw=true)
+ ![](https://github.com/zaksabeast/PokemonRNGGuides/blob/add/images/pictures/b2w2/en/Dream%20Radar%20RNG%20Guide/result.png?raw=true)
